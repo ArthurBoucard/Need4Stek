@@ -1,2 +1,3 @@
 # Need4Stek
-Algorithme which pilots a car in C
+Epitech project
+Algorithme which pilots (with the software CoppeliaSim) a car in C
